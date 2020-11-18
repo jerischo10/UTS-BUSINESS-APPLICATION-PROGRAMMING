@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_Restoran", "POS_Restoran\POS_Restoran.csproj", "{3766ABC8-182C-4DEC-BE97-D74B394795AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db", "Db\Db.csproj", "{3808F918-F49B-437B-A925-DE3267BD8824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3766ABC8-182C-4DEC-BE97-D74B394795AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3766ABC8-182C-4DEC-BE97-D74B394795AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3766ABC8-182C-4DEC-BE97-D74B394795AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3766ABC8-182C-4DEC-BE97-D74B394795AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3808F918-F49B-437B-A925-DE3267BD8824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3808F918-F49B-437B-A925-DE3267BD8824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3808F918-F49B-437B-A925-DE3267BD8824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3808F918-F49B-437B-A925-DE3267BD8824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D028065-0F8A-45A3-8B72-3B70946CD260}
+	EndGlobalSection
+EndGlobal

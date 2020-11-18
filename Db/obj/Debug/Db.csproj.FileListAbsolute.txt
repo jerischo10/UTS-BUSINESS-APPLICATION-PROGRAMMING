@@ -1,0 +1,18 @@
+C:\POS Restoran\Proyek_TIC_POS_Restoran\Db\bin\Debug\Db.dll
+C:\POS Restoran\Proyek_TIC_POS_Restoran\Db\bin\Debug\Db.pdb
+C:\POS Restoran\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.csprojAssemblyReference.cache
+C:\POS Restoran\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.csproj.CoreCompileInputs.cache
+C:\POS Restoran\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.dll
+C:\POS Restoran\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.pdb
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\Db\bin\Debug\Db.dll
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\Db\bin\Debug\Db.pdb
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.csprojAssemblyReference.cache
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.csproj.CoreCompileInputs.cache
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.dll
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.pdb
+D:\Proyek_TIC_POS_Restoran\Db\bin\Debug\Db.dll
+D:\Proyek_TIC_POS_Restoran\Db\bin\Debug\Db.pdb
+D:\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.csprojAssemblyReference.cache
+D:\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.csproj.CoreCompileInputs.cache
+D:\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.dll
+D:\Proyek_TIC_POS_Restoran\Db\obj\Debug\Db.pdb

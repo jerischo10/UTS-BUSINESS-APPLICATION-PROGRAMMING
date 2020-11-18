@@ -1,0 +1,122 @@
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\bin\Debug\UserLoginView.exe.config
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\bin\Debug\UserLoginView.exe
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\bin\Debug\UserLoginView.pdb
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\obj\Debug\POS_Restoran.csprojAssemblyReference.cache
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\obj\Debug\UserLoginView.Properties.Resources.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\obj\Debug\UserLoginView.UserLoginView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\obj\Debug\POS_Restoran.csproj.GenerateResource.cache
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\obj\Debug\POS_Restoran.csproj.CoreCompileInputs.cache
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\obj\Debug\UserLoginView.exe
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\obj\Debug\UserLoginView.pdb
+C:\POS Restoran\Proyek_TIC_POS_Restoran\UserLoginView\obj\Debug\UserLoginView.HomeView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.exe.config
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.exe
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.pdb
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csprojAssemblyReference.cache
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.Properties.Resources.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.UserLoginView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.GenerateResource.cache
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CoreCompileInputs.cache
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.exe
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.pdb
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MainProgram.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\Db.dll
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\Db.pdb
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CopyComplete
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserRecordView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuDataView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuRecordView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderDataView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderRecordView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.AddMenuToOrderView.resources
+C:\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.Print.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.exe.config
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.exe
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.pdb
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\Db.dll
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\Db.pdb
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csprojAssemblyReference.cache
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.AddMenuToOrderView.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserRecordView.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserView.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuDataView.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MainProgram.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuRecordView.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderRecordView.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderDataView.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.Print.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.Properties.Resources.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.UserLoginView.resources
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.GenerateResource.cache
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CoreCompileInputs.cache
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CopyComplete
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.exe
+D:\C#\POS Restoran\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.pdb
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.exe.config
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.exe
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.pdb
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\Db.dll
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\Db.pdb
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.AddMenuToOrderView.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserRecordView.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserView.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuDataView.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MainProgram.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuRecordView.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderRecordView.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderDataView.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.Print.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.Properties.Resources.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.UserLoginView.resources
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CopyComplete
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.exe
+C:\Users\HP\source\repos\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.pdb
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.exe.config
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.exe
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\POS_Restoran.pdb
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\Db.dll
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\bin\Debug\Db.pdb
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csprojAssemblyReference.cache
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.AddMenuToOrderView.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserRecordView.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserView.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuDataView.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MainProgram.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuRecordView.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderRecordView.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderDataView.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.Print.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.Properties.Resources.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.UserLoginView.resources
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.GenerateResource.cache
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CoreCompileInputs.cache
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CopyComplete
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.exe
+D:\Proyek_TIC_POS_Restoran\POS_Restoran\obj\Debug\POS_Restoran.pdb
+D:\project restoran\POS_Restoran\bin\Debug\POS_Restoran.exe.config
+D:\project restoran\POS_Restoran\bin\Debug\POS_Restoran.exe
+D:\project restoran\POS_Restoran\bin\Debug\POS_Restoran.pdb
+D:\project restoran\POS_Restoran\bin\Debug\Db.dll
+D:\project restoran\POS_Restoran\bin\Debug\Db.pdb
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.csprojAssemblyReference.cache
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.AddMenuToOrderView.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserRecordView.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.EditUserView.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuDataView.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.MainProgram.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.MenuRecordView.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderRecordView.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.OrderDataView.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.Print.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.Properties.Resources.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.UserLoginView.resources
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.GenerateResource.cache
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CoreCompileInputs.cache
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.csproj.CopyComplete
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.exe
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.pdb
+D:\project restoran\POS_Restoran\obj\Debug\POS_Restoran.UserForm.resources

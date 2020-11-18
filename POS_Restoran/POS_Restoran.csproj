@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3766ABC8-182C-4DEC-BE97-D74B394795AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>POS_Restoran</RootNamespace>
+    <AssemblyName>POS_Restoran</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Customer\AddMenuToOrderView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\AddMenuToOrderView.Designer.cs">
+      <DependentUpon>AddMenuToOrderView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUser\EditUser.cs" />
+    <Compile Include="EditUser\EditUserRecordView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUser\EditUserRecordView.Designer.cs">
+      <DependentUpon>EditUserRecordView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUser\EditUserDataView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUser\EditUserDataView.Designer.cs">
+      <DependentUpon>EditUserDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\MenuRecordView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\MenuRecordView.Designer.cs">
+      <DependentUpon>MenuRecordView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Menu.cs" />
+    <Compile Include="Menu\MenuDataView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\MenuDataView.Designer.cs">
+      <DependentUpon>MenuDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainProgram.Designer.cs">
+      <DependentUpon>MainProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\OrderDetail.cs" />
+    <Compile Include="Customer\OrderRecordView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\OrderRecordView.Designer.cs">
+      <DependentUpon>OrderRecordView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\Order.cs" />
+    <Compile Include="Order\OrderDataView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order\OrderDataView.Designer.cs">
+      <DependentUpon>OrderDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order\TempOrder.cs" />
+    <Compile Include="Print\Print.cs" />
+    <Compile Include="Print\PrintView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print\PrintView.Designer.cs">
+      <DependentUpon>PrintView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\UserForm.Designer.cs">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserLogin\UserLoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserLogin\UserLoginView.Designer.cs">
+      <DependentUpon>UserLoginView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserLogin\UserLogin.cs" />
+    <EmbeddedResource Include="Customer\AddMenuToOrderView.resx">
+      <DependentUpon>AddMenuToOrderView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUser\EditUserRecordView.resx">
+      <DependentUpon>EditUserRecordView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUser\EditUserDataView.resx">
+      <DependentUpon>EditUserDataView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\MenuDataView.resx">
+      <DependentUpon>MenuDataView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainProgram.resx">
+      <DependentUpon>MainProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\MenuRecordView.resx">
+      <DependentUpon>MenuRecordView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\OrderRecordView.resx">
+      <DependentUpon>OrderRecordView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order\OrderDataView.resx">
+      <DependentUpon>OrderDataView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\PrintView.resx">
+      <DependentUpon>PrintView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserLogin\UserLoginView.resx">
+      <DependentUpon>UserLoginView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Db\Db.csproj">
+      <Project>{3808f918-f49b-437b-a925-de3267bd8824}</Project>
+      <Name>Db</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
